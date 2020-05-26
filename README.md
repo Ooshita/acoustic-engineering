@@ -25,4 +25,4 @@
 
 ## Slack
 以下のリンクからお入りください。
-https://join.slack.com/t/w1590415244-d0q514271/shared_invite/zt-eo9lm5es-FkhTjq_CDxIeIqH8s6dU5Q
+https://join.slack.com/t/acoustic-engineering/shared_invite/zt-eilmn61i-5oi98SrsoJ8F_96mmyD5EA
